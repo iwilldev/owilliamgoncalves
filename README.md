@@ -31,13 +31,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="36" height="36"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="36" height="36"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="36" height="36"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36" height="36"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="36" height="36"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="36" height="36"/>
 </p>
 
