@@ -1,10 +1,11 @@
 <h1 align="left">
   Salve, visitante! 🖖 Eu sou William Gonçalves
 </h1>
+<img src="https://euwilliamgoncalves.github.io/img/og.jpg" width="650" />
 
 <h3 align="left">
   👨🏻‍💻 Desenvolvedor FullStack em aprendizado, apaixonado por Front-End, Design, UI e UX 🎨.<br>
-  Pai, namorido, carioca e flamenguista que já sonhou em ser fotógrafo (e que tira umas fotos brabas! 📸).
+  Pai, namorido, carioca e flamenguista que já sonhou em ser fotógrafo (tiro umas fotos brabas! 📸).
 </h3>
 
 - 🔭 Atualmente trabalho como freelancer em projetos voltados, em sua maioria, para sites e aplicações web.
@@ -22,6 +23,8 @@
 <h3 align="left">
   Principais habilidades:
 </h3>
+
+<img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/> 
@@ -42,6 +45,10 @@
   Meus perfis nas redes:
 </h3>
 
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euwilliamgoncalves&layout=compact" alt="euwilliamgoncalves" />
+</p>
+
 <p align="left">
   <a href="https://linkedin.com/in/euwilliamgoncalves" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="euwilliamgoncalves" height="24" width="24" />
@@ -52,8 +59,4 @@
   <a href="https://medium.com/@euwilliamgoncalves" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@euwilliamgoncalves" height="24" width="24" />
   </a>
-</p>
-
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=euwilliamgoncalves&show_icons=true" alt="euwilliamgoncalves" /> 
 </p>
