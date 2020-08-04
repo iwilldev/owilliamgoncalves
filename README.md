@@ -41,13 +41,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="36" height="36"/>
 </p>
 
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euwilliamgoncalves&layout=compact&hide=python" alt="euwilliamgoncalves" />
+</p>
+
 <h3 align="left">
   Meus perfis nas redes:
 </h3>
-
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euwilliamgoncalves&layout=compact" alt="euwilliamgoncalves" />
-</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/euwilliamgoncalves" target="blank">
