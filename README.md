@@ -50,7 +50,7 @@
   <a href="https://linkedin.com/in/euwilliamgoncalves" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="euwilliamgoncalves" height="24" width="24" />
   </a>
-  <a href="https://instagram.com/sosobrouesse" target="blank">
+  <a href="https://instagram.com/magodocss" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sosobrouesse" height="24" width="24" />
   </a>
   <a href="https://medium.com/@euwilliamgoncalves" target="blank">
