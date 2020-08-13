@@ -12,7 +12,7 @@
 
 - 🌱 Meus estudos estão focados no desenvolvimento web, desde HTML, CSS e JavaScript, até React, Angular e Vue, além de conceitos de Design, UI, UX, usabilidade e acessibilidade.
 
-- 💬 Pretendo iniciar uma série de publicações compartilhando o conhecimento adquirido nessa jornada no desenvolvimento, permitindo que outras pessoas possam ter a mesma percepção que eu, a respeito do desenvolvimento em JavaScript.
+- 💬 Compartilho conhecimento sobre CSS, no LinkedIn e no Instagram, pretendendo abrir para outros temas, em breve.
 
 - 🎮 Sou entusiasta de Game Dev e Gamificação e pretendo me dedicar a mais projetos nesse sentido.
 
