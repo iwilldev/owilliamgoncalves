@@ -1,22 +1,18 @@
 <h1 align="left">
   Salve, visitante! 🖖 Eu sou William Gonçalves
 </h1>
-<img src="https://euwilliamgoncalves.github.io/img/og.jpg" width="650" />
 
 <h3 align="left">
   👨🏻‍💻 Desenvolvedor FullStack em aprendizado, apaixonado por Front-End, Design, UI e UX 🎨.<br>
-  Pai, namorido, carioca e flamenguista que já sonhou em ser fotógrafo (tiro umas fotos brabas! 📸).
 </h3>
 
 - 🔭 Atualmente trabalho como freelancer em projetos voltados, em sua maioria, para sites e aplicações web.
 
-- 🌱 Meus estudos estão focados no desenvolvimento web, desde HTML, CSS e JavaScript, até React, Angular e Vue, além de conceitos de Design, UI, UX, usabilidade e acessibilidade.
+- 🌱 Meus estudos estão focados no desenvolvimento web, desde HTML, CSS e JavaScript, até React e Vue, além de conceitos de Design, UI, UX, usabilidade e acessibilidade.
 
-- 💬 Compartilho conhecimento sobre CSS, no LinkedIn e no Instagram, pretendendo abrir para outros temas, em breve.
+- 💬 Compartilho conhecimento sobre CSS e iniciei um canal no Youtube chamado [Mago do CSS](https://youtube.com/channel/UCXJIa44t_QW1dWojbIPxXKg).
 
-- 🎮 Sou entusiasta de Game Dev e Gamificação e pretendo me dedicar a mais projetos nesse sentido.
-
-- 👨🏻‍💻 Meu currículo e projetos estão no [https://euwilliamgoncalves.github.io/](https://euwilliamgoncalves.github.io/)
+- 👨🏻‍💻 Meu currículo e projetos estão no [omagotemum.site](https://omagotemum.site/)
 
 - 📫 Meu e-mail é o **euwilliamgoncalves@gmail.com**
 
@@ -33,7 +29,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="36" height="36"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36" height="36"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="36" height="36"/>
 </p>
@@ -50,8 +45,8 @@
   <a href="https://linkedin.com/in/euwilliamgoncalves" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="euwilliamgoncalves" height="24" width="24" />
   </a>
-  <a href="https://instagram.com/magodocss" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sosobrouesse" height="24" width="24" />
+  <a href="https://instagram.com/oarrobanaocoube" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oarrobanaocoube" height="24" width="24" />
   </a>
   <a href="https://medium.com/@euwilliamgoncalves" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@euwilliamgoncalves" height="24" width="24" />
