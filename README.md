@@ -1,8 +1,4 @@
-# William Gonçalves
-
-William Gonçalves, carioca, natural da Zona Norte (Alô, Andaraí!), mas andarilho da Oeste e da Baixada, há mais de 15 anos. Desenvolvedor em Formação, apaixonado por soluções 'do lado do cliente', desde Web a Mobile, UI e UX.
-
-Flamenguista roxo, na alegria e na sofrência. Pai de um príncipe de 3 anos que me enche de orgulho e me mostra como A Vida é Bela e digna de um Oscar, como Roberto Benigni.
+Carioca, natural da Zona Norte (Alô, Andaraí!), mas andarilho da Oeste e da Baixada, há mais de 15 anos. Flamenguista roxo, na alegria e na sofrência. Pai de um príncipe de 3 anos que me enche de orgulho e me mostra como A Vida é Bela e digna de um Oscar, como Roberto Benigni.
 
 Canhoto nascido na Primavera de 1988, que desde cedo fez jus a fama dos 'left-handed', com ótima noção espacial, criatividade e tendência as atividades artísticas. Os astros, na hora registrada em certidão, garantiram intensidade, determinação, inconformismo, espontaneidade, livre-pensamento, grande imaginação e sensibilidade. Mas esse papo a gente deixa pra quem curte.
 
@@ -12,20 +8,4 @@ Voltei para o universo da programação em meio a pandemia, depois de 10 anos de
 
 Sabe o cara que você busca pra pensar o não óbvio em seus projetos e chegar a um resultado de encher os olhos? Esse cara sou eu! (São tantas emoções, bicho!)
 
-👨🏻‍💻 Meu currículo e portfólio estão no [mago.link](https://mago.link/)
-
-## Mago
-
-O mago nasceu de uma brincadeira durante o Mega Hack 3.0 da Shawee, do qual participei, no desafio da Árvore Educação. Meu parceiro de equipe e amigo nessa jornada Dev, Thiago Pederzolli, me deu o apelido 'Mago do CSS', em função das minhas habilidades com estilização.
-
-Aproveitando a alcunha, comecei a compartilhar conteúdo no Instagram, no LinkedIn e no YouTube, através do meu canal, falando sobre propriedades e recursos do CSS. Mas ao perceber que poderia explorar outros temas, reduzi o nome a 'Mago', para que outros assuntos possam ser abordados em publicações futuras.
-
-A ideia é usar essa marca pessoal para replicar conhecimento e compartilhar o aprendizado com outros desevolvedores que, assim como eu, têm trilhado essa estrada do desenvolvimento Web.
-
-Acompanhe as publicações nas minhas redes sociais:
-
-[Instagram](https://www.instagram.com/william.mago) | [LinkedIn](https://www.linkedin.com/in/williammago) | [Digital Innovation One](https://web.digitalinnovation.one/users/euwilliamgoncalves/) | [Rocketseat](https://app.rocketseat.com.br/me/williammago) | [DEV Community](https://dev.to/williammago) | [Youtube](https://youtube.com/channel/UCXJIa44t_QW1dWojbIPxXKg)
-
-📫 Meu e-mail é o **euwilliamgoncalves@gmail.com**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williammago&layout=compact&hide=CSS,HTML&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owilliamgoncalves&layout=compact&hide=CSS,HTML&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
